@@ -1,0 +1,642 @@
+Naziv proteina,Molska Frakcija Uredjeni,Molska Frakcija Neuredjeni,Procenat uredjeni,Procenat neuredjeni,Frakcijska Razlika
+AJY53714.1|virion spike glycoprotein precursor,0.50808,0.49192,50.81%,49.19%,-0.0318
+AMZ00481.1|virion spike glycoprotein,0.51982,0.48018,51.98%,48.02%,-0.0763
+AMZ00488.1|virion spike glycoprotein,0.45815,0.54185,45.81%,54.19%,0.1827
+AGN52936.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+AHY61337.1|spike glycoprotein,0.85477,0.14523,85.48%,14.52%,-0.8301
+AQZ41285.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+AQZ41311.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AQZ41322.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+AQZ41332.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AQZ41343.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AQZ41354.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AQZ41365.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AQZ41376.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ARQ84735.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ARQ84746.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ARQ84757.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ARQ84768.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU45696.1|spike glycoprotein,0.86031,0.13969,86.03%,13.97%,-0.8376
+ASU45708.1|spike glycoprotein,0.86031,0.13969,86.03%,13.97%,-0.8376
+ASU45719.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45730.1|spike glycoprotein,0.85588,0.14412,85.59%,14.41%,-0.8316
+ASU45741.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45752.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45763.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45774.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45785.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45796.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+ASU45807.1|spike glycoprotein,0.86179,0.13821,86.18%,13.82%,-0.8396
+ASU45818.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+ASU45829.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45840.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU45851.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+ASU45862.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+ASU45873.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU89921.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU89933.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU89944.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU89955.1|spike glycoprotein,0.85144,0.14856,85.14%,14.86%,-0.8255
+ASU89977.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU89988.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+ASU89999.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90010.1|spike glycoprotein,0.87435,0.12565,87.44%,12.56%,-0.8563
+ASU90021.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90032.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90043.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90054.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90065.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90076.1|spike glycoprotein,0.87214,0.12786,87.21%,12.79%,-0.8534
+ASU90087.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90098.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90109.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90120.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90131.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90142.1|spike glycoprotein,0.8677,0.1323,86.77%,13.23%,-0.8475
+ASU90153.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90164.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90175.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90186.1|spike glycoprotein,0.86548,0.13452,86.55%,13.45%,-0.8446
+ASU90197.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90208.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90219.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90230.1|spike glycoprotein,0.85957,0.14043,85.96%,14.04%,-0.8366
+ASU90241.1|spike glycoprotein,0.86992,0.13008,86.99%,13.01%,-0.8505
+ASU90252.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90263.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90274.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90285.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90295.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90307.1|spike glycoprotein,0.87509,0.12491,87.51%,12.49%,-0.8573
+ASU90318.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90340.1|spike glycoprotein,0.87288,0.12712,87.29%,12.71%,-0.8544
+ASU90351.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90362.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90373.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90384.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU90395.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90406.1|spike glycoprotein,0.84775,0.15225,84.77%,15.23%,-0.8204
+ASU90417.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU90428.1|spike glycoprotein,0.87509,0.12491,87.51%,12.49%,-0.8573
+ASU90439.1|spike glycoprotein,0.84775,0.15225,84.77%,15.23%,-0.8204
+ASU90461.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90472.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90483.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90494.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90505.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU90516.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90527.1|spike glycoprotein,0.87583,0.12417,87.58%,12.42%,-0.8582
+ASU90538.1|spike glycoprotein,0.87214,0.12786,87.21%,12.79%,-0.8534
+ASU90549.1|spike glycoprotein,0.86622,0.13378,86.62%,13.38%,-0.8456
+ASU90560.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90571.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90582.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90593.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90604.1|spike glycoprotein,0.87214,0.12786,87.21%,12.79%,-0.8534
+ASU90615.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90626.1|spike glycoprotein,0.87509,0.12491,87.51%,12.49%,-0.8573
+ASU90637.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90648.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90659.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90670.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90681.1|spike glycoprotein,0.86031,0.13969,86.03%,13.97%,-0.8376
+ASU90692.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90703.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90714.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90725.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90736.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90747.1|spike glycoprotein,0.87731,0.12269,87.73%,12.27%,-0.8602
+ASU90758.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90769.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90780.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90791.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90802.1|spike glycoprotein,0.85957,0.14043,85.96%,14.04%,-0.8366
+ASU90813.1|spike glycoprotein,0.86696,0.13304,86.7%,13.3%,-0.8465
+ASU90824.1|spike glycoprotein,0.87731,0.12269,87.73%,12.27%,-0.8602
+ASU90835.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90846.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+ASU90857.1|spike glycoprotein,0.8544,0.1456,85.44%,14.56%,-0.8296
+ASU90868.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90879.1|spike glycoprotein,0.86327,0.13673,86.33%,13.67%,-0.8416
+ASU90890.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90901.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90912.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90923.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90934.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90945.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90956.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90966.1|spike glycoprotein,0.87509,0.12491,87.51%,12.49%,-0.8573
+ASU90978.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU90988.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU90999.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91010.1|spike glycoprotein,0.87288,0.12712,87.29%,12.71%,-0.8544
+ASU91021.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91032.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91043.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91054.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91065.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91076.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91087.1|spike glycoprotein,0.87214,0.12786,87.21%,12.79%,-0.8534
+ASU91098.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ASU91109.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91120.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91131.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91142.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91153.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91164.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91175.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91186.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91197.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91208.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+ASU91219.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91230.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91241.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91252.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91262.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91273.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91295.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91305.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91315.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ASU91325.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+ATY74381.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+ATY74392.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+ATY74403.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+ATY74414.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87318.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87329.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87351.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87362.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87373.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87384.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87395.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87406.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87428.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AVK87450.1|spike glycoprotein,0.86992,0.13008,86.99%,13.01%,-0.8505
+AVK87461.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AVV61900.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+AWM99582.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AWU59321.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AXG21643.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AXG21654.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+AXG21665.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AYJ71481.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AYM48030.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AYO86699.1|spike glycoprotein,0.86401,0.13599,86.4%,13.6%,-0.8426
+AYP10298.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+AYV64549.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+AYV64560.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+QDP16195.1|spike glycoprotein,0.87583,0.12417,87.58%,12.42%,-0.8582
+QDP16206.1|spike glycoprotein,0.86622,0.13378,86.62%,13.38%,-0.8456
+QGW51898.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+QGW51909.1|spike glycoprotein,0.86253,0.13747,86.25%,13.75%,-0.8406
+QGW51920.1|spike glycoprotein,0.86548,0.13452,86.55%,13.45%,-0.8446
+UBS90429.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90451.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90462.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90473.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90484.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90506.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UBS90517.1|spike glycoprotein,0.86475,0.13525,86.47%,13.53%,-0.8436
+UYR00344.1|spike glycoprotein,0.87361,0.12639,87.36%,12.64%,-0.8553
+UYR00354.1|spike glycoprotein,0.86622,0.13378,86.62%,13.38%,-0.8456
+UYR00365.1|spike glycoprotein,0.86622,0.13378,86.62%,13.38%,-0.8456
+XJP51031.1|spike glycoprotein,0.86105,0.13895,86.1%,13.9%,-0.8386
+XJP51042.1|spike glycoprotein,0.86105,0.13895,86.1%,13.9%,-0.8386
+XJP51053.1|spike glycoprotein,0.86105,0.13895,86.1%,13.9%,-0.8386
+AAD14585.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+AAQ55048.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+ABX75367.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+ACI28624.1|spike glycoprotein precursor,0.63905,0.36095,63.91%,36.09%,-0.4352
+ACI28632.1|spike glycoprotein precursor,0.62278,0.37722,62.28%,37.72%,-0.3943
+AGB56686.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56695.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56704.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56713.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56722.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56731.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56740.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56749.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+AGB56758.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AGB56767.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AGB56776.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AGB56785.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AGB56794.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56803.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AGB56812.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AGB56821.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+AGB56830.1|virion spike glycoprotein precursor,0.68195,0.31805,68.2%,31.8%,-0.5336
+AGB56839.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+AHX24649.2|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AHX24658.2|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AHX24667.2|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AIE11800.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11809.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11818.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11827.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11836.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11845.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11854.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11863.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11872.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11881.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11890.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11899.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11908.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIE11917.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95887.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95896.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95905.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95914.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95923.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95932.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95941.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95950.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95959.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95968.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95977.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95986.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG95995.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96004.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96013.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96022.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96031.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96040.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96049.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96058.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96067.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96076.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96085.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96094.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96103.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96112.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96121.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96130.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96139.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96148.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96157.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96166.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96175.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96184.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96193.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96202.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96211.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96220.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96229.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96238.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96247.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96256.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96265.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96274.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96283.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96292.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96301.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96310.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96319.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96328.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96337.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96346.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96355.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96364.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96373.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96382.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96391.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96400.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96409.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96418.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96427.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96436.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96445.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96454.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96463.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96472.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96481.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96490.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96499.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96508.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96517.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96526.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96535.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96544.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96553.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96562.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96571.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96580.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96589.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96598.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96607.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96616.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96625.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIG96634.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIR94008.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+AIW65950.1|virion spike glycoprotein precursor,0.68935,0.31065,68.93%,31.07%,-0.5494
+AIY27576.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIY29182.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AIZ50391.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIZ50400.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIZ50409.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIZ50418.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AIZ50427.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AJF38895.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKA43780.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKT08840.1|virion spike glycoprotein precursor,0.68935,0.31065,68.93%,31.07%,-0.5494
+AKU75159.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75168.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75177.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75186.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75195.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75204.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75213.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75222.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75231.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75240.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75249.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75276.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75285.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75294.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75303.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75312.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75321.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75330.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75339.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75350.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75357.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75366.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75375.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75384.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75393.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75411.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75420.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75429.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75438.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75456.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75465.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75474.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75483.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75492.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75501.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75510.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75519.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75537.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75546.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75564.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75573.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AKU75582.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALD19447.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+ALF04542.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALF04551.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALH21186.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+ALH21195.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+ALH21454.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALH21463.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALN12279.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALO75889.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82615.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82624.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82633.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82642.1|virion spike glycoprotein precursor,0.67012,0.32988,67.01%,32.99%,-0.5077
+ALR82651.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82660.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82669.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82678.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82687.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82696.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82705.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82714.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82723.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82732.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82741.1|virion spike glycoprotein precursor,0.66272,0.33728,66.27%,33.73%,-0.4911
+ALR82750.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82759.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82768.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82777.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82786.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82795.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82804.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82813.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82822.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82831.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82840.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+ALR82849.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82858.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82867.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82876.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82885.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82894.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82903.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82912.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82921.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82930.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82939.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR82948.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+ALR82957.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82966.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82975.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82984.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR82993.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83002.1|virion spike glycoprotein precursor,0.67604,0.32396,67.6%,32.4%,-0.5208
+ALR83011.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83020.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83029.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83038.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83047.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83056.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83065.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83074.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83083.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83092.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83101.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83110.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83119.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83128.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+ALR83137.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ALR83146.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84407.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84418.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84427.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84436.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84445.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84454.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84463.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84472.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84481.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84490.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84499.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84508.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84517.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84526.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84535.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84544.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84553.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84562.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84571.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84580.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84589.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84598.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84607.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84616.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84625.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84634.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84643.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84652.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84661.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84670.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84679.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84688.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84697.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84706.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84715.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84724.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84733.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84742.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84751.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84760.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84769.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84778.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84787.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84796.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84805.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84814.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84823.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84832.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84841.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+APW84850.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AQS26701.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AQS26710.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AQS26719.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AQS26728.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AQS26737.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ARC95297.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ARC95306.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+ASJ82195.1|virion spike glycoprotein precursor,0.62798,0.37202,62.8%,37.2%,-0.4076
+ASJ82208.1|virion spike glycoprotein precursor,0.62946,0.37054,62.95%,37.05%,-0.4113
+ATY51099.1|spike glycoprotein,0.67899,0.32101,67.9%,32.1%,-0.5272
+ATY51108.1|spike glycoprotein,0.67899,0.32101,67.9%,32.1%,-0.5272
+ATY51117.1|spike glycoprotein,0.67308,0.32692,67.31%,32.69%,-0.5143
+ATY51126.1|spike glycoprotein,0.67899,0.32101,67.9%,32.1%,-0.5272
+ATY51135.1|spike glycoprotein,0.67899,0.32101,67.9%,32.1%,-0.5272
+ATY51144.1|spike glycoprotein,0.67604,0.32396,67.6%,32.4%,-0.5208
+AVQ09622.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+AVQ09631.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+AVQ09640.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+AVQ09649.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AVQ09658.1|virion spike glycoprotein precursor,0.68047,0.31953,68.05%,31.95%,-0.5304
+AWK96571.1|spike glycoprotein,0.67899,0.32101,67.9%,32.1%,-0.5272
+AWK96580.1|spike glycoprotein,0.63018,0.36982,63.02%,36.98%,-0.4131
+AWK96589.1|spike glycoprotein,0.61834,0.38166,61.83%,38.17%,-0.3828
+AWK96598.1|spike glycoprotein,0.67604,0.32396,67.6%,32.4%,-0.5208
+AWK96607.1|spike glycoprotein,0.67604,0.32396,67.6%,32.4%,-0.5208
+AWK96616.1|spike glycoprotein,0.67751,0.32249,67.75%,32.25%,-0.524
+AWK96625.1|spike glycoprotein,0.61834,0.38166,61.83%,38.17%,-0.3828
+AWK96634.1|spike glycoprotein,0.68491,0.31509,68.49%,31.51%,-0.54
+AWK96643.1|spike glycoprotein,0.63018,0.36982,63.02%,36.98%,-0.4131
+AWU50990.2|spike glycoprotein,0.67456,0.32544,67.46%,32.54%,-0.5175
+AWZ62327.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+AXH37629.1|spike glycoprotein,0.67456,0.32544,67.46%,32.54%,-0.5175
+AXP07381.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07390.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07399.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07408.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07417.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07426.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07435.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07444.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07453.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07462.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07471.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07480.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07489.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07498.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AXP07507.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+AYI50307.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+AYI50316.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+AYI50382.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+AYN74049.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74058.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74067.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74076.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74085.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74094.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74103.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74112.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74121.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74130.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74139.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74148.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74157.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74175.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYN74184.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+AYW17071.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+BAB69006.1|virion spike glycoprotein precursor,0.62186,0.37814,62.19%,37.81%,-0.3919
+NP_066246.1|spike glycoprotein,0.67751,0.32249,67.75%,32.25%,-0.524
+NP_690583.1|spike glycoprotein,0.61152,0.38848,61.15%,38.85%,-0.3647
+QCF40467.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40476.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40485.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40494.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40503.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40512.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40530.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40539.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QCF40548.1|virion spike glycoprotein precursor,0.67456,0.32544,67.46%,32.54%,-0.5175
+QDC12558.1|spike glycoprotein,0.63018,0.36982,63.02%,36.98%,-0.4131
+QEU56416.1|spike glycoprotein GP,0.68639,0.31361,68.64%,31.36%,-0.5431
+QMS54662.1|virion spike glycoprotein precursor,0.67012,0.32988,67.01%,32.99%,-0.5077
+QNC49533.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49542.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49560.1|spike glycoprotein,0.63609,0.36391,63.61%,36.39%,-0.4279
+QNC49578.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49596.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49605.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49614.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49641.1|spike glycoprotein,0.63609,0.36391,63.61%,36.39%,-0.4279
+QNC49650.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49668.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49677.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49686.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QNC49695.1|spike glycoprotein,0.63462,0.36538,63.46%,36.54%,-0.4242
+QOU08480.1|spike glycoprotein,0.62798,0.37202,62.8%,37.2%,-0.4076
+QOU08489.1|spike glycoprotein,0.625,0.375,62.5%,37.5%,-0.4
+QXV44984.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+QXV44993.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+QYU59238.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+QYU59247.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+QYU59256.1|spike glycoprotein,0.61834,0.38166,61.83%,38.17%,-0.3828
+QYU59265.1|spike glycoprotein,0.61834,0.38166,61.83%,38.17%,-0.3828
+QYU59274.1|spike glycoprotein,0.63018,0.36982,63.02%,36.98%,-0.4131
+QYU59283.1|spike glycoprotein,0.63018,0.36982,63.02%,36.98%,-0.4131
+QYU59292.1|spike glycoprotein,0.67751,0.32249,67.75%,32.25%,-0.524
+QYU59301.1|spike glycoprotein,0.67751,0.32249,67.75%,32.25%,-0.524
+QYU59310.1|spike glycoprotein,0.67604,0.32396,67.6%,32.4%,-0.5208
+QYU59319.1|spike glycoprotein,0.67604,0.32396,67.6%,32.4%,-0.5208
+SCD11534.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WBH05260.1|spike glycoprotein,0.62946,0.37054,62.95%,37.05%,-0.4113
+WDG39716.1|virion spike glycoprotein precursor,0.67012,0.32988,67.01%,32.99%,-0.5077
+WDG39725.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+WDG39734.1|virion spike glycoprotein precursor,0.67308,0.32692,67.31%,32.69%,-0.5143
+WGV39670.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39679.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39688.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39697.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39706.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39715.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39724.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39733.1|virion spike glycoprotein precursor,0.68195,0.31805,68.2%,31.8%,-0.5336
+WGV39742.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39751.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39760.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39769.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39778.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39787.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39796.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39805.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39814.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39823.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39832.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+WGV39841.1|virion spike glycoprotein precursor,0.68195,0.31805,68.2%,31.8%,-0.5336
+WGV39850.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39859.1|virion spike glycoprotein precursor,0.67899,0.32101,67.9%,32.1%,-0.5272
+WGV39868.1|virion spike glycoprotein precursor,0.67751,0.32249,67.75%,32.25%,-0.524
+YP_003815426.1|spike glycoprotein,0.62278,0.37722,62.28%,37.72%,-0.3943
+YP_003815435.1|spike glycoprotein,0.63905,0.36095,63.91%,36.09%,-0.4352
+YP_009513277.1|spike glycoprotein,0.62798,0.37202,62.8%,37.2%,-0.4076
+YP_138523.1|spike glycoprotein,0.61834,0.38166,61.83%,38.17%,-0.3828
