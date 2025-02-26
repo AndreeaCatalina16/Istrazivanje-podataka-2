@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_149
 
-sequence       1 DYAFHKDGAF FLYDRLASTV IYRGVNFAEG VIAFLI                                                                         36
-state          1 UUUsssssss ssssssssss ssssssssss sssssU                                                                         36
-probability    1 9654333210 0000000000 0000000000 011236                                                                         36
+sequence       1 DYAFHKDGAF FLYDRLASTV IYRGVNFAEG VIAFLILAKP KETFLQSPPI REAV                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss UUUUUUUUUU UUUU                                                     54
+probability    1 9654333210 0000000000 0000000000 0000001234 5555678888 9999                                                     54
 

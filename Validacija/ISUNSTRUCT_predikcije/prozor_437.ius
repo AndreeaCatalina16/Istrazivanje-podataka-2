@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_437
 
-sequence       1 TEEPTTPPGS SPGPTTEAPT LTTPENITTA VKTVLP                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999999999 8888888888 888889                                                                         36
+sequence       1 TEEPTTPPGS SPGPTTEAPT LTTPENITTA VKTVLPQEST SNGLITSTVT GILG                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9999999998 8888776666 6666677777 7766666666 7779                                                     54
 

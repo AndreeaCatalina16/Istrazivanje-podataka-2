@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_353
 
-sequence       1 HIPEGETTLP SQNSTEGRRV GVNTQETITE TAATII                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999999988 8888888888 888889                                                                         36
+sequence       1 HIPEGETTLP SQNSTEGRRV GVNTQETITE TAATIIGTNG NHMQISTIGI RPSS                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUsss ssssssssss ssUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9999998877 6666655444 4433333444 4455555566 7999                                                     54
 

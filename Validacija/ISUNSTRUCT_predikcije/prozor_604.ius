@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_604
 
-sequence       1 GPDCCIEPHD WTKNITDKIN QIIHDFIDNP LPNQD                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssUU UUUUU                                                                          35
-probability    1 9864323222 1111111111 1111222456 78999                                                                          35
+sequence       1 GPDCCIEPHD WTKNITDKIN QIIHDFIDNP LPNQDNDDNW WTGWRQWIPA GIGI                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 9863322222 1111111100 0000001122 2333332210 0000000123 4467                                                     54
 

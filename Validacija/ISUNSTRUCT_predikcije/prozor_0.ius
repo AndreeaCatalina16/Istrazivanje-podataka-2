@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_0
 
-sequence       1 MGGLSLLQLP RDKFRKSSFF VWVIILFQKA FSMPLG                                                                         36
-state          1 UUUUUUUUUU UUssssssss ssssssssss sUUUUU                                                                         36
-probability    1 9887765555 5544433200 0000000233 456789                                                                         36
+sequence       1 MGGLSLLQLP RDKFRKSSFF VWVIILFQKA FSMPLGVVTN STLEVTEIDQ LVCKD                                                    55
+state          1 UUUUUUUUUU UUssssssss ssssssssss ssssssssss ssssssssss sssUU                                                    55
+probability    1 9887765555 5544433200 0000000000 0000000111 1112222233 33479                                                    55
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_127
 
-sequence       1 GVRGFPRCRY VHKAQGTGPC PGDYAFHKDG AFFLYD                                                                         36
-state          1 UUUUUUssss ssssssssss ssssssssss sssssU                                                                         36
-probability    1 9776554332 3333333332 2222222222 222348                                                                         36
+sequence       1 GVRGFPRCRY VHKAQGTGPC PGDYAFHKDG AFFLYDRLAS TVIYRGVNFA EGVI                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9776544322 2222322222 2111000000 0000000000 0000011223 5568                                                     54
 

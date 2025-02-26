@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_618
 
-sequence       1 ITDKINQIIH DFIDNPLPNQ DNDDNWWTGW RQWIP                                                                          35
-state          1 UUUUUsssss ssssssssss ssssssssss ssssU                                                                          35
-probability    1 9876544322 2223344444 4433211111 22248                                                                          35
+sequence       1 ITDKINQIIH DFIDNPLPNQ DNDDNWWTGW RQWIPAGIGI TGIIIAIIAL LCVC                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssss ssssssssss sssU                                                     54
+probability    1 9876544322 2223333444 4332100000 0000000000 0000000000 0125                                                     54
 

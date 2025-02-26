@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_532
 
-sequence       1 PYFGPGAEGI YTEGLMHNQN ALVCGLRQLA NETTQ                                                                          35
-state          1 UUUUUUUUss ssssssssss sssssssUUU UUUUU                                                                          35
-probability    1 9766665543 3333233332 2222234556 78899                                                                          35
+sequence       1 PYFGPGAEGI YTEGLMHNQN ALVCGLRQLA NETTQALQLF LRATTELRTY TILN                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 9766655432 2222222111 1000001111 1111111100 1111222222 3458                                                     54
 

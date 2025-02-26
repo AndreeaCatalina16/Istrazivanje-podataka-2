@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_67
 
-sequence       1 LNLEGSGVST DIPSATKRWG FRSGVPPKVV SYEAGE                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999888 8888777666 6677777777 788999                                                                         36
+sequence       1 LNLEGSGVST DIPSATKRWG FRSGVPPKVV SYEAGEWAEN CYNLEIKKPD GSEC                                                     54
+state          1 UUUUUUUUUU UUUUUUUsss ssssssssss ssssssssss ssssssUUUU UUUU                                                     54
+probability    1 9999998887 7776655433 3333333322 2222211111 1223446788 9999                                                     54
 

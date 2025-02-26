@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_178
 
-sequence       1 GVIAFLILAK PKETFLQSPP IREAVNYTEN TSSYYA                                                                         36
-state          1 UUssssssss ssUUsUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 8533222234 4455455666 6666666778 888889                                                                         36
+sequence       1 GVIAFLILAK PKETFLQSPP IREAVNYTEN TSSYYATSYL EYEIENFGAQ HSTT                                                     54
+state          1 Usssssssss ssssssssss ssssssssss ssssssssss sssssssUUU UUUU                                                     54
+probability    1 8432111223 3333333444 3333222222 2221111111 1122344567 8999                                                     54
 

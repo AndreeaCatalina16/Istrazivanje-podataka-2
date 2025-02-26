@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_262
 
-sequence       1 HQQLSNTTGR LIWTLDANIN ADIGEWAFWE NKKNLS                                                                         36
-state          1 UUUUUUUUss ssssssssss ssssssssss UUUUUU                                                                         36
-probability    1 9988776543 1000000000 0000000014 567889                                                                         36
+sequence       1 HQQLSNTTGR LIWTLDANIN ADIGEWAFWE NKKNLSEQLR GEELSFEALS LNET                                                     54
+state          1 UUUUUUUUss ssssssssss ssssssssss ssUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9988776543 1000000000 0000000012 4455667777 7777777888 8999                                                     54
 

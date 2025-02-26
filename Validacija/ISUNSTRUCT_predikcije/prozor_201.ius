@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_201
 
-sequence       1 AVNYTENTSS YYATSYLEYE IENFGAQHST TLFKID                                                                         36
-state          1 UUUUUUUUUs ssssssssss ssssssssUU UUUUUU                                                                         36
-probability    1 9877766654 3222211112 2222344455 555679                                                                         36
+sequence       1 AVNYTENTSS YYATSYLEYE IENFGAQHST TLFKIDNNTF VRLDRPHTPQ FLFQ                                                     54
+state          1 UUUUUUUUUs ssssssssss ssssssssss ssssssssss ssssUUUUUU UUUU                                                     54
+probability    1 9877666554 2211110101 0111111111 1111111222 2334556666 6679                                                     54
 

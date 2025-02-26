@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_578
 
-sequence       1 LRTYTILNRK AIDFLLRRWG GTCRILGPDC CIEPH                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssss ssUUU                                                                          35
-probability    1 8753211111 0000000000 0000001111 13689                                                                          35
+sequence       1 LRTYTILNRK AIDFLLRRWG GTCRILGPDC CIEPHDWTKN ITDKINQIIH DFID                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 8753211111 0000000000 0000000000 0000000000 0111111112 3358                                                     54
 

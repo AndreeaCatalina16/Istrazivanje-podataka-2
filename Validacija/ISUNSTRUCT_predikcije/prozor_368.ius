@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_368
 
-sequence       1 EGRRVGVNTQ ETITETAATI IGTNGNHMQI STIGIR                                                                         36
-state          1 UUUUUUUUUU UUUUUUssss sssUUUUUUU UUUUUU                                                                         36
-probability    1 9998777766 6655554443 4445555555 666779                                                                         36
+sequence       1 EGRRVGVNTQ ETITETAATI IGTNGNHMQI STIGIRPSSS QIPSSSPTTA PSPE                                                     54
+state          1 UUUUUUUUUU UUUUssssss ssssssssss UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9998777666 6555444433 3344444444 5555678999 9999999999 9999                                                     54
 

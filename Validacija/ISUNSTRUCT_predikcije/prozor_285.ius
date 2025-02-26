@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_285
 
-sequence       1 GEWAFWENKK NLSEQLRGEE LSFEALSLNE TEDDDA                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9866556777 7788888888 8888888899 999999                                                                         36
+sequence       1 GEWAFWENKK NLSEQLRGEE LSFEALSLNE TEDDDAASSR ITKGRISDRA TRKY                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9866556777 7788888888 8888888889 9999999999 9999999999 9999                                                     54
 

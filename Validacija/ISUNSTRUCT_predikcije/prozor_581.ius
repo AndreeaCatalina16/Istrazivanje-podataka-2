@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_581
 
-sequence       1 YTILNRKAID FLLRRWGGTC RILGPDCCIE PHDWT                                                                          35
-state          1 UUssssssss ssssssssss ssssssssss UUUUU                                                                          35
-probability    1 7643332110 0000000000 0000011113 55668                                                                          35
+sequence       1 YTILNRKAID FLLRRWGGTC RILGPDCCIE PHDWTKNITD KINQIIHDFI DNPL                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 7643332110 0000000000 0000000000 0000000000 1011111223 5789                                                     54
 

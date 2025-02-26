@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_357
 
-sequence       1 GETTLPSQNS TEGRRVGVNT QETITETAAT IIGTNG                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9998877777 7776666666 667899                                                                         36
+sequence       1 GETTLPSQNS TEGRRVGVNT QETITETAAT IIGTNGNHMQ ISTIGIRPSS SQIP                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUsssssss ssssssssss sUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9988776666 6554444433 3334444444 4555567899 9999                                                     54
 

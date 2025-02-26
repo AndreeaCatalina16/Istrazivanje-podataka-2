@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_264
 
-sequence       1 QLSNTTGRLI WTLDANINAD IGEWAFWENK KNLSEQ                                                                         36
-state          1 UUUUUUssss ssssssssss ssssssssUU UUUUUU                                                                         36
-probability    1 9887654310 0000000000 0000001356 778999                                                                         36
+sequence       1 QLSNTTGRLI WTLDANINAD IGEWAFWENK KNLSEQLRGE ELSFEALSLN ETED                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9887654310 0000000000 0000001234 5556677777 7777778889 9999                                                     54
 

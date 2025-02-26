@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_41
 
-sequence       1 TLEVTEIDQL VCKDHLASTD QLKSVGLNLE GSGVST                                                                         36
-state          1 UUUUUUUUUs sssUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9876665554 4445555666 6666667778 889999                                                                         36
+sequence       1 TLEVTEIDQL VCKDHLASTD QLKSVGLNLE GSGVSTDIPS ATKRWGFRSG VPPK                                                     54
+state          1 UUUUUUUsss sssssssUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9876655444 3344444555 5555555556 6666666677 7666666788 8999                                                     54
 

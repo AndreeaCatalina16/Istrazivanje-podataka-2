@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_271
 
-sequence       1 RLIWTLDANI NADIGEWAFW ENKKNLSEQL RGEELS                                                                         36
-state          1 Usssssssss ssssssssss ssUUUUUUUU UUUUUU                                                                         36
-probability    1 8421111110 0000000001 3456677888 899999                                                                         36
+sequence       1 RLIWTLDANI NADIGEWAFW ENKKNLSEQL RGEELSFEAL SLNETEDDDA ASSR                                                     54
+state          1 Usssssssss ssssssssss sssUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 8421111110 0000000001 2345556666 7777777777 8889999999 9999                                                     54
 

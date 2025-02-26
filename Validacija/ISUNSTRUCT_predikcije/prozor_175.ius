@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_175
 
-sequence       1 FAEGVIAFLI LAKPKETFLQ SPPIREAVNY TENTSS                                                                         36
-state          1 UUUsssssss ssssssssUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 8764321111 2234444456 6666677777 889999                                                                         36
+sequence       1 FAEGVIAFLI LAKPKETFLQ SPPIREAVNY TENTSSYYAT SYLEYEIENF GAQH                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 8764211111 1223333333 3333333222 2222221111 1112223445 6789                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_544
 
-sequence       1 EGLMHNQNAL VCGLRQLANE TTQALQLFLR ATTEL                                                                          35
-state          1 UUUUUUUUss ssssssssss sssssssssU UUUUU                                                                          35
-probability    1 9877766543 2222233333 3333333345 67789                                                                          35
+sequence       1 EGLMHNQNAL VCGLRQLANE TTQALQLFLR ATTELRTYTI LNRKAIDFLL RRWG                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss ssssssssss ssssssssss sssU                                                     54
+probability    1 9877665432 1111111111 1111000000 0000000000 0000000111 3448                                                     54
 

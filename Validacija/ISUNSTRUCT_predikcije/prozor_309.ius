@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_309
 
-sequence       1 ALSLNETEDD DAASSRITKG RISDRATRKY SDLVPK                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999999999 9999999999 999999                                                                         36
+sequence       1 ALSLNETEDD DAASSRITKG RISDRATRKY SDLVPKNSPG MVPLHIPEGE TTLP                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9999999998 8888888888 8888888988 8888888999 9999                                                     54
 

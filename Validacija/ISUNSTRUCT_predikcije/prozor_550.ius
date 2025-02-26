@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_550
 
-sequence       1 QNALVCGLRQ LANETTQALQ LFLRATTELR TYTIL                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssss ssUUU                                                                          35
-probability    1 9864322222 2233222221 1112223333 44557                                                                          35
+sequence       1 QNALVCGLRQ LANETTQALQ LFLRATTELR TYTILNRKAI DFLLRRWGGT CRIL                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss sssU                                                     54
+probability    1 9753322222 2222221110 0000000000 0000000000 0000000112 2347                                                     54
 

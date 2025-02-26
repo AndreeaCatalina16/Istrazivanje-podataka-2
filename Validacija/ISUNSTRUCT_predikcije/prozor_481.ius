@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_481
 
-sequence       1 ITSTVTGILG SLGLRKRSRR QTNTKATGKC NPNLH                                                                          35
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUU                                                                          35
-probability    1 9988776666 7777888999 9999999999 99999                                                                          35
+sequence       1 ITSTVTGILG SLGLRKRSRR QTNTKATGKC NPNLHYWTAQ EQHNAAGIAW IPYF                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUs ssssssssss ssssssssss sssU                                                     54
+probability    1 9987766666 6666777888 7777666554 4332211122 2222222111 2346                                                     54
 

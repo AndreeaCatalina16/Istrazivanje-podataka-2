@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_180
 
-sequence       1 IAFLILAKPK ETFLQSPPIR EAVNYTENTS SYYATS                                                                         36
-state          1 UUUUsUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 8655455566 6666667666 6666677777 777899                                                                         36
+sequence       1 IAFLILAKPK ETFLQSPPIR EAVNYTENTS SYYATSYLEY EIENFGAQHS TTLF                                                     54
+state          1 UUssssssUU UssssUUsss ssssssssss ssssssssss ssssssUUUU UUUU                                                     54
+probability    1 8644444455 5444455444 4333333332 2111111111 2233345677 7889                                                     54
 

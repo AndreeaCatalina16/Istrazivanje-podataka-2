@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_630
 
-sequence       1 IDNPLPNQDN DDNWWTGWRQ WIPAGIGITG IIIAI                                                                          35
-state          1 UUUUUUUUUU UUssssssss ssssssssss ssssU                                                                          35
-probability    1 9999998887 6530000000 0000000000 01146                                                                          35
+sequence       1 IDNPLPNQDN DDNWWTGWRQ WIPAGIGITG IIIAIIALLC VCKLLC                                                              46
+state          1 UUUUUUUUUU UUssssssss ssssssssss ssssssssss sssssU                                                              46
+probability    1 9999998887 6530000000 0000000000 0000000000 001236                                                              46
 

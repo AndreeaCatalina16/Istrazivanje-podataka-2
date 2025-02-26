@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_523
 
-sequence       1 HNAAGIAWIP YFGPGAEGIY TEGLMHNQNA LVCGL                                                                          35
-state          1 UUUUssssss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 9865311000 0001111111 1122223333 34468                                                                          35
+sequence       1 HNAAGIAWIP YFGPGAEGIY TEGLMHNQNA LVCGLRQLAN ETTQALQLFL RATT                                                     54
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9865311000 0000000000 0000001100 0000111122 2333333334 5689                                                     54
 

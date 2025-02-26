@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_441
 
-sequence       1 TTPPGSSPGP TTEAPTLTTP ENITTAVKTV LPQEST                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999988888 8877777777 889999                                                                         36
+sequence       1 TTPPGSSPGP TTEAPTLTTP ENITTAVKTV LPQESTSNGL ITSTVTGILG SLGL                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU ssssssssUU UUUU                                                     54
+probability    1 9999999999 9999888887 7766665655 6667766655 4444444456 7789                                                     54
 

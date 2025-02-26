@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_251
 
-sequence       1 FLFQLNDTIH LHQQLSNTTG RLIWTLDANI NADIGE                                                                         36
-state          1 UUUsssssss ssssssssss ssssssssss sUUUUU                                                                         36
-probability    1 7554443332 2333222222 1100112233 456689                                                                         36
+sequence       1 FLFQLNDTIH LHQQLSNTTG RLIWTLDANI NADIGEWAFW ENKKNLSEQL RGEE                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssUUUUUUUU UUUU                                                     54
+probability    1 7544433322 2222222211 1000000000 0000000001 3456678888 9999                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_227
 
-sequence       1 QHSTTLFKID NNTFVRLDRP HTPQFLFQLN DTIHLH                                                                         36
-state          1 UUUUUsssss ssssssssss ssssssssss sUUUUU                                                                         36
-probability    1 9987543333 3322223333 3333222334 455679                                                                         36
+sequence       1 QHSTTLFKID NNTFVRLDRP HTPQFLFQLN DTIHLHQQLS NTTGRLIWTL DANI                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9986543322 2221122222 2221100001 1101111112 2211111123 5678                                                     54
 

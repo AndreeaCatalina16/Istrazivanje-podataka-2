@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_447
 
-sequence       1 SPGPTTEAPT LTTPENITTA VKTVLPQEST SNGLI                                                                          35
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUU                                                                          35
-probability    1 9999999998 8888887777 7777789999 99999                                                                          35
+sequence       1 SPGPTTEAPT LTTPENITTA VKTVLPQEST SNGLITSTVT GILGSLGLRK RSRR                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUsssssss sssssUUUUU UUUU                                                     54
+probability    1 9999999988 8877776665 5555566666 6554333333 3334455678 8999                                                     54
 

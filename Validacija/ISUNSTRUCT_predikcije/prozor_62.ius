@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_62
 
-sequence       1 LKSVGLNLEG SGVSTDIPSA TKRWGFRSGV PPKVVS                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9998888888 8888887877 7776667788 889999                                                                         36
+sequence       1 LKSVGLNLEG SGVSTDIPSA TKRWGFRSGV PPKVVSYEAG EWAENCYNLE IKKP                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU Usssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9998887777 7777666665 5443333333 3332222222 2112222334 5789                                                     54
 

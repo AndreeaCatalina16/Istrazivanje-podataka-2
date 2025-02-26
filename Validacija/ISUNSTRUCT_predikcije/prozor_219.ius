@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_219
 
-sequence       1 YEIENFGAQH STTLFKIDNN TFVRLDRPHT PQFLFQ                                                                         36
-state          1 UUUUUUUUUU Usssssssss sssssUUUUU UUUUUU                                                                         36
-probability    1 9877766665 5443333333 3334456666 776779                                                                         36
+sequence       1 YEIENFGAQH STTLFKIDNN TFVRLDRPHT PQFLFQLNDT IHLHQQLSNT TGRL                                                     54
+state          1 UUUUUUUUUU ssssssssss ssssssssss ssssssssss ssssUUUUUU UUUU                                                     54
+probability    1 9877666555 4432221221 1111122222 2211111222 2334566788 8999                                                     54
 

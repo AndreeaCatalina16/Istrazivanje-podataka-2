@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_147
 
-sequence       1 PGDYAFHKDG AFFLYDRLAS TVIYRGVNFA EGVIAF                                                                         36
-state          1 UUUsssssss ssssssssss ssssssssss ssssUU                                                                         36
-probability    1 9864332221 1000000000 0000000111 223357                                                                         36
+sequence       1 PGDYAFHKDG AFFLYDRLAS TVIYRGVNFA EGVIAFLILA KPKETFLQSP PIRE                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssUUUUUUUU UUUU                                                     54
+probability    1 9864332221 1000000000 0000000000 0000000012 3455556788 9999                                                     54
 

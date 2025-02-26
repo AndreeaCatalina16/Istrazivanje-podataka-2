@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_187
 
-sequence       1 KPKETFLQSP PIREAVNYTE NTSSYYATSY LEYEIE                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUsssssss sUUUUU                                                                         36
-probability    1 9999888888 7766655555 5554433444 455679                                                                         36
+sequence       1 KPKETFLQSP PIREAVNYTE NTSSYYATSY LEYEIENFGA QHSTTLFKID NNTF                                                     54
+state          1 UUUUUUUUUU UUUUUsssss ssssssssss ssssssssss ssssssssUU UUUU                                                     54
+probability    1 9999887777 7665544444 3332111111 1111111222 3333333456 7889                                                     54
 

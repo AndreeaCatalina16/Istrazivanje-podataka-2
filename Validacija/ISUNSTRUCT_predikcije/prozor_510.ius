@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_510
 
-sequence       1 CNPNLHYWTA QEQHNAAGIA WIPYFGPGAE GIYTE                                                                          35
-state          1 UUUUssssss ssssssssss ssssssssss ssUUU                                                                          35
-probability    1 9876432222 2222211100 0000123344 44579                                                                          35
+sequence       1 CNPNLHYWTA QEQHNAAGIA WIPYFGPGAE GIYTEGLMHN QNALVCGLRQ LANE                                                     54
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9876432222 2222211000 0000000000 0000111111 1111112345 5789                                                     54
 

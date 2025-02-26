@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_136
 
-sequence       1 YVHKAQGTGP CPGDYAFHKD GAFFLYDRLA STVIYR                                                                         36
-state          1 UUUUUUUUUU ssssssssss ssssssssss sssssU                                                                         36
-probability    1 9888877766 4443221111 1000001112 222348                                                                         36
+sequence       1 YVHKAQGTGP CPGDYAFHKD GAFFLYDRLA STVIYRGVNF AEGVIAFLIL AKPK                                                     54
+state          1 UUUUUUUUUU ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 9888877665 4433211111 1000000000 0000000000 0000000002 4789                                                     54
 

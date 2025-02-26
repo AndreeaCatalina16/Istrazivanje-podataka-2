@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_474
 
-sequence       1 ESTSNGLITS TVTGILGSLG LRKRSRRQTN TKATG                                                                          35
-state          1 UUUUUUUUUU ssssssUUUU UUUUUUUUUU UUUUU                                                                          35
-probability    1 9998875555 4444445556 6788999999 99999                                                                          35
+sequence       1 ESTSNGLITS TVTGILGSLG LRKRSRRQTN TKATGKCNPN LHYWTAQEQH NAAG                                                     54
+state          1 UUUUUUUUUs sssssssssU UUUUUUUUUU UUUUUUUUUs ssssUUUUUU UUUU                                                     54
+probability    1 9998765554 4443334445 5667777777 7766665554 4444567888 9999                                                     54
 

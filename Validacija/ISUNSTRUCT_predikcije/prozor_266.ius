@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_266
 
-sequence       1 SNTTGRLIWT LDANINADIG EWAFWENKKN LSEQLR                                                                         36
-state          1 UUUUUsssss ssssssssss ssssssUUUU UUUUUU                                                                         36
-probability    1 9876531100 0000000000 0000135667 789999                                                                         36
+sequence       1 SNTTGRLIWT LDANINADIG EWAFWENKKN LSEQLRGEEL SFEALSLNET EDDD                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9876531000 0000000000 0000123455 5666777777 7777788899 9999                                                     54
 

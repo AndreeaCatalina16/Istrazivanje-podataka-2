@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_90
 
-sequence       1 GVPPKVVSYE AGEWAENCYN LEIKKPDGSE CLPPPP                                                                         36
-state          1 UUUUUUUUss ssssssssss sssUUUUUUU UUUUUU                                                                         36
-probability    1 9988755544 4332232223 3446778888 889999                                                                         36
+sequence       1 GVPPKVVSYE AGEWAENCYN LEIKKPDGSE CLPPPPDGVR GFPRCRYVHK AQGT                                                     54
+state          1 UUUUUUUsss ssssssssss sssUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9988755444 3332222222 3345666777 6777777666 5555555567 8899                                                     54
 

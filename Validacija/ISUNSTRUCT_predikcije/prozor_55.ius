@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_55
 
-sequence       1 HLASTDQLKS VGLNLEGSGV STDIPSATKR WGFRSG                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999888 8877788888 8888888888 788899                                                                         36
+sequence       1 HLASTDQLKS VGLNLEGSGV STDIPSATKR WGFRSGVPPK VVSYEAGEWA ENCY                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUs sssssssUUs ssssUUUUUU UUUU                                                     54
+probability    1 9999998888 7777777776 6666666554 4444444554 4444555556 6778                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_245
 
-sequence       1 RPHTPQFLFQ LNDTIHLHQQ LSNTTGRLIW TLDANI                                                                         36
-state          1 UUUUUUssss ssssssssss ssssssssss ssUUUU                                                                         36
-probability    1 9987753222 2222111222 2222222111 235678                                                                         36
+sequence       1 RPHTPQFLFQ LNDTIHLHQQ LSNTTGRLIW TLDANINADI GEWAFWENKK NLSE                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss sssssssUUU UUUU                                                     54
+probability    1 9987653222 1111111111 1111110000 0000000000 0000013567 8899                                                     54
 

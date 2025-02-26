@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_254
 
-sequence       1 QLNDTIHLHQ QLSNTTGRLI WTLDANINAD IGEWAF                                                                         36
-state          1 UUUUUUUUss ssssssssss ssssssssss ssssUU                                                                         36
-probability    1 9887655544 4443332110 0011111222 234467                                                                         36
+sequence       1 QLNDTIHLHQ QLSNTTGRLI WTLDANINAD IGEWAFWENK KNLSEQLRGE ELSF                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss sssssssssU UUUUUUUUUU UUUU                                                     54
+probability    1 9887655444 4443322100 0000000000 0000001345 6667888899 9999                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_209
 
-sequence       1 SSYYATSYLE YEIENFGAQH STTLFKIDNN TFVRLD                                                                         36
-state          1 UUssssssss ssssssssss ssssssssss sssUUU                                                                         36
-probability    1 9743332211 1111112222 2222222333 344679                                                                         36
+sequence       1 SSYYATSYLE YEIENFGAQH STTLFKIDNN TFVRLDRPHT PQFLFQLNDT IHLH                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 9743322111 1111111111 1110000111 1111122222 2222223344 4679                                                     54
 

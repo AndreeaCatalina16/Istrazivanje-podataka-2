@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_559
 
-sequence       1 QLANETTQAL QLFLRATTEL RTYTILNRKA IDFLL                                                                          35
-state          1 UUUUUUUUss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 9988776543 2211111111 1111111222 33457                                                                          35
+sequence       1 QLANETTQAL QLFLRATTEL RTYTILNRKA IDFLLRRWGG TCRILGPDCC IEPH                                                     54
+state          1 UUUUUUUUss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 9888776543 2111111100 0000000000 0000000000 0000011111 3689                                                     54
 

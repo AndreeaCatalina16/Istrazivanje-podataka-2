@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_5
 
-sequence       1 LLQLPRDKFR KSSFFVWVII LFQKAFSMPL GVVTNS                                                                         36
-state          1 UUUUUUUUUU Usssssssss ssssssssss sssUUU                                                                         36
-probability    1 9888877655 5431000000 0001112233 344689                                                                         36
+sequence       1 LLQLPRDKFR KSSFFVWVII LFQKAFSMPL GVVTNSTLEV TEIDQLVCKD HLAST                                                    55
+state          1 UUUUUUUUUU Usssssssss ssssssssss ssssssssss ssssssssss UUUUU                                                    55
+probability    1 9888877655 5431000000 0000000000 0001111111 1111112234 56789                                                    55
 

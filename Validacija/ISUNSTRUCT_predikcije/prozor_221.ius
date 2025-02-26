@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_221
 
-sequence       1 IENFGAQHST TLFKIDNNTF VRLDRPHTPQ FLFQLN                                                                         36
-state          1 UUUUUUUUUU ssssssssss ssssUUUUUU UUUUUU                                                                         36
-probability    1 9987777665 4333333333 3334555555 555779                                                                         36
+sequence       1 IENFGAQHST TLFKIDNNTF VRLDRPHTPQ FLFQLNDTIH LHQQLSNTTG RLIW                                                     54
+state          1 UUUUUUUUUs ssssssssss ssssssssss ssssssssss sssssUUUUU UUUU                                                     54
+probability    1 9987766654 3222222211 1112222221 1111111122 2344455566 6667                                                     54
 

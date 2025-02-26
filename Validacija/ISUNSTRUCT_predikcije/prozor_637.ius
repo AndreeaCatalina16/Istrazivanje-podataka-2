@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_637
 
-sequence       1 QDNDDNWWTG WRQWIPAGIG ITGIIIAIIA LLCVC                                                                          35
-state          1 UUUUUsssss ssssssssss ssssssssss ssssU                                                                          35
-probability    1 9987531000 0000000000 0000000000 00125                                                                          35
+sequence       1 QDNDDNWWTG WRQWIPAGIG ITGIIIAIIA LLCVCKLLC                                                                      39
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssU                                                                      39
+probability    1 9987531000 0000000000 0000000000 000001236                                                                      39
 

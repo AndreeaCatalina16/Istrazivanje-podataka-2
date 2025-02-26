@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_612
 
-sequence       1 HDWTKNITDK INQIIHDFID NPLPNQDNDD NWWTG                                                                          35
-state          1 UUUUUUssss ssssssssss UUUUUUUUUU UUUUU                                                                          35
-probability    1 9865554433 3222222234 5556677777 76689                                                                          35
+sequence       1 HDWTKNITDK INQIIHDFID NPLPNQDNDD NWWTGWRQWI PAGIGITGII IAII                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssss ssssssssss sssU                                                     54
+probability    1 9755543333 2211111112 2333333322 1000000000 0000000000 0136                                                     54
 

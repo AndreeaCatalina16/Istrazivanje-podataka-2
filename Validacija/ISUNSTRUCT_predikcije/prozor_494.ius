@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_494
 
-sequence       1 LRKRSRRQTN TKATGKCNPN LHYWTAQEQH NAAGI                                                                          35
-state          1 UUUUUUUUUU UUUUUUUUUU ssssUUUUUU UUUUU                                                                          35
-probability    1 9999999999 8887766665 4444567788 89999                                                                          35
+sequence       1 LRKRSRRQTN TKATGKCNPN LHYWTAQEQH NAAGIAWIPY FGPGAEGIYT EGLM                                                     54
+state          1 UUUUUUUUUU UUUUUUssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9999999988 8776654443 2111111221 1110000000 0122233335 6779                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_585
 
-sequence       1 NRKAIDFLLR RWGGTCRILG PDCCIEPHDW TKNIT                                                                          35
-state          1 UUUUssssss ssssssssss ssssssssss sUUUU                                                                          35
-probability    1 9875321000 0000000000 0000122333 46679                                                                          35
+sequence       1 NRKAIDFLLR RWGGTCRILG PDCCIEPHDW TKNITDKINQ IIHDFIDNPL PNQD                                                     54
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss sssssssUUU UUUU                                                     54
+probability    1 9875321000 0000000000 0000000000 0000000000 0011124567 8999                                                     54
 

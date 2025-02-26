@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_294
 
-sequence       1 KNLSEQLRGE ELSFEALSLN ETEDDDAASS RITKGR                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9888888899 9999999999 999999                                                                         36
+sequence       1 KNLSEQLRGE ELSFEALSLN ETEDDDAASS RITKGRISDR ATRKYSDLVP KNSP                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9888888889 9999999999 9999998999 9999899999 9999                                                     54
 

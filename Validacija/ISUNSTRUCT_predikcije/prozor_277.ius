@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_277
 
-sequence       1 DANINADIGE WAFWENKKNL SEQLRGEELS FEALSL                                                                         36
-state          1 UUUUUUssss sssssUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9876554332 2222455666 7777888888 888999                                                                         36
+sequence       1 DANINADIGE WAFWENKKNL SEQLRGEELS FEALSLNETE DDDAASSRIT KGRI                                                     54
+state          1 UUUUUUssss ssssssUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9876554332 2222345666 7777777777 7777888999 9999999999 9999                                                     54
 

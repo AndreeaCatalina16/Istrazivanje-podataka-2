@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_597
 
-sequence       1 GGTCRILGPD CCIEPHDWTK NITDKINQII HDFID                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 9753321111 0001111011 1111111111 23358                                                                          35
+sequence       1 GGTCRILGPD CCIEPHDWTK NITDKINQII HDFIDNPLPN QDNDDNWWTG WRQW                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 9753221111 0000000000 0000000000 0001223334 4444332223 3567                                                     54
 

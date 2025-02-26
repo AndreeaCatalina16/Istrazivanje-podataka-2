@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_4
 
-sequence       1 SLLQLPRDKF RKSSFFVWVI ILFQKAFSMP LGVVTN                                                                         36
-state          1 UUUUUUUUUU Usssssssss ssssssssss sssUUU                                                                         36
-probability    1 9887777665 5443100000 0001111233 344579                                                                         36
+sequence       1 SLLQLPRDKF RKSSFFVWVI ILFQKAFSMP LGVVTNSTLE VTEIDQLVCK DHLAS                                                    55
+state          1 UUUUUUUUUU Usssssssss ssssssssss ssssssssss ssssssssss UUUUU                                                    55
+probability    1 9887777665 5443100000 0000000000 0000111111 1111122224 55689                                                    55
 

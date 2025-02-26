@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_569
 
-sequence       1 QLFLRATTEL RTYTILNRKA IDFLLRRWGG TCRIL                                                                          35
-state          1 UUssssssss ssssssssss ssssssssss ssssU                                                                          35
-probability    1 9643333221 1100000000 0000000011 22347                                                                          35
+sequence       1 QLFLRATTEL RTYTILNRKA IDFLLRRWGG TCRILGPDCC IEPHDWTKNI TDKI                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9643333221 1100000000 0000000000 0000000000 0122223445 6789                                                     54
 

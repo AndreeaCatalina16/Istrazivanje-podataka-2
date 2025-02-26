@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_75
 
-sequence       1 STDIPSATKR WGFRSGVPPK VVSYEAGEWA ENCYNL                                                                         36
-state          1 UUUUUUUUUU UsssUsssss ssssssssss sssUUU                                                                         36
-probability    1 9998887766 5444544444 4333344434 444578                                                                         36
+sequence       1 STDIPSATKR WGFRSGVPPK VVSYEAGEWA ENCYNLEIKK PDGSECLPPP PDGV                                                     54
+state          1 UUUUUUUUUU ssssssssss ssssssssss ssssssssUU UUUUUUUUUU UUUU                                                     54
+probability    1 9998887665 4444443333 2222222111 1111223456 7788888999 9999                                                     54
 

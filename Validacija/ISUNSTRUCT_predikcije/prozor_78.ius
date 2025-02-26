@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_78
 
-sequence       1 IPSATKRWGF RSGVPPKVVS YEAGEWAENC YNLEIK                                                                         36
-state          1 UUUUUUUUss ssssssssss ssssssssss sssUUU                                                                         36
-probability    1 9998776544 4444443333 2222222222 234569                                                                         36
+sequence       1 IPSATKRWGF RSGVPPKVVS YEAGEWAENC YNLEIKKPDG SECLPPPPDG VRGF                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss sssssUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9998776444 4444443222 2222211111 1223456777 8888999999 9999                                                     54
 

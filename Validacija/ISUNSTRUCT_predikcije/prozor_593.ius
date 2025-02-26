@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_593
 
-sequence       1 LRRWGGTCRI LGPDCCIEPH DWTKNITDKI NQIIH                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssss sUUUU                                                                          35
-probability    1 8753321110 0000000111 1112223333 45568                                                                          35
+sequence       1 LRRWGGTCRI LGPDCCIEPH DWTKNITDKI NQIIHDFIDN PLPNQDNDDN WWTG                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss sUUUUUUUUU UUUU                                                     54
+probability    1 8753221100 0000000000 0000000000 0000111134 4566677766 6689                                                     54
 

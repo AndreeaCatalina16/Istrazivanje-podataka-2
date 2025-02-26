@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_448
 
-sequence       1 PGPTTEAPTL TTPENITTAV KTVLPQESTS NGLIT                                                                          35
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUU                                                                          35
-probability    1 9999999988 8888777777 7777889999 99999                                                                          35
+sequence       1 PGPTTEAPTL TTPENITTAV KTVLPQESTS NGLITSTVTG ILGSLGLRKR SRRQ                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUssssssss ssssUUUUUU UUUU                                                     54
+probability    1 9999999888 8777766655 5555666666 5543333333 3344556788 9999                                                     54
 

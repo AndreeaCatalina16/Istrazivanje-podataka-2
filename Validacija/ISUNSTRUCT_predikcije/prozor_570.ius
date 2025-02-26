@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_570
 
-sequence       1 LFLRATTELR TYTILNRKAI DFLLRRWGGT CRILG                                                                          35
-state          1 UUUUssssss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 8655443322 1000000000 0000000011 12358                                                                          35
+sequence       1 LFLRATTELR TYTILNRKAI DFLLRRWGGT CRILGPDCCI EPHDWTKNIT DKIN                                                     54
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 8655443322 1000000000 0000000000 0000000000 1122233445 6789                                                     54
 

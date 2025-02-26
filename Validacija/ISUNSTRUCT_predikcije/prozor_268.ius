@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_268
 
-sequence       1 TTGRLIWTLD ANINADIGEW AFWENKKNLS EQLRGE                                                                         36
-state          1 UUUsssssss ssssssssss sssssUUUUU UUUUUU                                                                         36
-probability    1 9764210000 0000000000 0013456778 888999                                                                         36
+sequence       1 TTGRLIWTLD ANINADIGEW AFWENKKNLS EQLRGEELSF EALSLNETED DDAA                                                     54
+state          1 UUUsssssss ssssssssss ssssssUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9764210000 0000000000 0012345556 6667777777 7778889999 9999                                                     54
 

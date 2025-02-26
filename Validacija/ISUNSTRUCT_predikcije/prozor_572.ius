@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_572
 
-sequence       1 LRATTELRTY TILNRKAIDF LLRRWGGTCR ILGPD                                                                          35
-state          1 UUUUUUssss ssssssssss ssssssssss ssUUU                                                                          35
-probability    1 9877654321 1000000000 0000000111 23689                                                                          35
+sequence       1 LRATTELRTY TILNRKAIDF LLRRWGGTCR ILGPDCCIEP HDWTKNITDK INQI                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss ssssssssUU UUUU                                                     54
+probability    1 9877654321 1000000000 0000000000 0000000011 1112333456 6789                                                     54
 

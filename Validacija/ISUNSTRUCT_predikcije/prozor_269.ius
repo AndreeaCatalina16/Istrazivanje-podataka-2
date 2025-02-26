@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_269
 
-sequence       1 TGRLIWTLDA NINADIGEWA FWENKKNLSE QLRGEE                                                                         36
-state          1 UUUsssssss ssssssssss ssssUUUUUU UUUUUU                                                                         36
-probability    1 9752100000 0000000000 0134566788 889999                                                                         36
+sequence       1 TGRLIWTLDA NINADIGEWA FWENKKNLSE QLRGEELSFE ALSLNETEDD DAAS                                                     54
+state          1 UUUsssssss ssssssssss sssssUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9752100000 0000000000 0123455566 6677777777 7788899999 9999                                                     54
 

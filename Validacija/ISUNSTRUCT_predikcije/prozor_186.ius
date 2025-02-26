@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_186
 
-sequence       1 AKPKETFLQS PPIREAVNYT ENTSSYYATS YLEYEI                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUsssss sUUUUU                                                                         36
-probability    1 9999988888 8777665555 5555544444 456678                                                                         36
+sequence       1 AKPKETFLQS PPIREAVNYT ENTSSYYATS YLEYEIENFG AQHSTTLFKI DNNT                                                     54
+state          1 UUUUUUUUUU UUUUUUssss ssssssssss ssssssssss ssssssssUU UUUU                                                     54
+probability    1 9999987777 7766554444 4333211111 1111111222 3333444455 7899                                                     54
 

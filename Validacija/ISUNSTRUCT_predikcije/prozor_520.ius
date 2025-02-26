@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_520
 
-sequence       1 QEQHNAAGIA WIPYFGPGAE GIYTEGLMHN QNALV                                                                          35
-state          1 UUUUUUssss ssssssssss sssssssUUU UUUUU                                                                          35
-probability    1 9987654311 0000011122 2223344566 77889                                                                          35
+sequence       1 QEQHNAAGIA WIPYFGPGAE GIYTEGLMHN QNALVCGLRQ LANETTQALQ LFLR                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 9987654210 0000000000 0000000011 1100001112 2333444444 4569                                                     54
 

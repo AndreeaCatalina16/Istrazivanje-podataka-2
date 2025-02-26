@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_225
 
-sequence       1 GAQHSTTLFK IDNNTFVRLD RPHTPQFLFQ LNDTIH                                                                         36
-state          1 UUUUUUUsss ssssssssss ssssssssss UUUUUU                                                                         36
-probability    1 9988765433 3333322333 4444443334 566779                                                                         36
+sequence       1 GAQHSTTLFK IDNNTFVRLD RPHTPQFLFQ LNDTIHLHQQ LSNTTGRLIW TLDA                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 9988765333 2222211122 2222211000 0111111112 2222222112 3479                                                     54
 

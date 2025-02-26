@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_257
 
-sequence       1 DTIHLHQQLS NTTGRLIWTL DANINADIGE WAFWEN                                                                         36
-state          1 UUUUUUUUUU ssssssssss ssssssssss ssssUU                                                                         36
-probability    1 9876665555 4332210000 0000000000 011269                                                                         36
+sequence       1 DTIHLHQQLS NTTGRLIWTL DANINADIGE WAFWENKKNL SEQLRGEELS FEAL                                                     54
+state          1 UUUUUUUUUs ssssssssss ssssssssss ssssssUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9876665554 4332110000 0000000000 0001345566 7777888888 8999                                                     54
 

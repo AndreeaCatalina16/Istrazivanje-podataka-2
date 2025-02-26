@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_76
 
-sequence       1 TDIPSATKRW GFRSGVPPKV VSYEAGEWAE NCYNLE                                                                         36
-state          1 UUUUUUUUUs ssssssssss ssssssssss sssUUU                                                                         36
-probability    1 9988877664 4444444443 3333333333 444579                                                                         36
+sequence       1 TDIPSATKRW GFRSGVPPKV VSYEAGEWAE NCYNLEIKKP DGSECLPPPP DGVR                                                     54
+state          1 UUUUUUUUUs ssssssssss ssssssssss sssssssUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9988877654 4444433332 2222221111 1112234567 7888889999 9999                                                     54
 

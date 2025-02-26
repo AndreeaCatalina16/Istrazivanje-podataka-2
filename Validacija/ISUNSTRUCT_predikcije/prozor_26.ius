@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_26
 
-sequence       1 FQKAFSMPLG VVTNSTLEVT EIDQLVCKDH LASTDQ                                                                         36
-state          1 UUUUUUUUss ssssssssss ssssssssUU UUUUUU                                                                         36
-probability    1 9987666544 3333333322 2222223455 678899                                                                         36
+sequence       1 FQKAFSMPLG VVTNSTLEVT EIDQLVCKDH LASTDQLKSV GLNLEGSGVS TDIPS                                                    55
+state          1 UUUUUUUUss ssssssssss ssssssssss ssssUUUUUU UUUUUUUUUU UUUUU                                                    55
+probability    1 9987665543 3333322222 2121111233 3444555555 5566778888 89999                                                    55
 

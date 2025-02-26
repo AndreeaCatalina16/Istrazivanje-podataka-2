@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_256
 
-sequence       1 NDTIHLHQQL SNTTGRLIWT LDANINADIG EWAFWE                                                                         36
-state          1 UUUUUUUUUs ssssssssss ssssssssss sssssU                                                                         36
-probability    1 9876655554 4433211000 0000000001 111128                                                                         36
+sequence       1 NDTIHLHQQL SNTTGRLIWT LDANINADIG EWAFWENKKN LSEQLRGEEL SFEA                                                     54
+state          1 UUUUUUUUUs ssssssssss ssssssssss sssssssUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9876655554 4433210000 0000000000 0000134566 6778888899 9999                                                     54
 

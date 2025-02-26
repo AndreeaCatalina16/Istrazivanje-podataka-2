@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_470
 
-sequence       1 VLPQESTSNG LITSTVTGIL GSLGLRKRSR RQTNT                                                                          35
-state          1 UUUUUUUUUU UUUUssssss sUUUUUUUUU UUUUU                                                                          35
-probability    1 9999998876 5555444444 4556678899 99999                                                                          35
+sequence       1 VLPQESTSNG LITSTVTGIL GSLGLRKRSR RQTNTKATGK CNPNLHYWTA QEQH                                                     54
+state          1 UUUUUUUUUU Usssssssss sssUUUUUUU UUUUUUUUUU UUUUssssUU UUUU                                                     54
+probability    1 9999998876 5444443333 4445567777 7777777666 5555444456 8899                                                     54
 

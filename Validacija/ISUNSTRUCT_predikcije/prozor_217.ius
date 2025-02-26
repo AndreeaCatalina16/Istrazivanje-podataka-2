@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_217
 
-sequence       1 LEYEIENFGA QHSTTLFKID NNTFVRLDRP HTPQFL                                                                         36
-state          1 UUUUUUUUUU UUssssssss ssssssUUUU UUUUUU                                                                         36
-probability    1 9877666555 5544333333 3333445677 888999                                                                         36
+sequence       1 LEYEIENFGA QHSTTLFKID NNTFVRLDRP HTPQFLFQLN DTIHLHQQLS NTTG                                                     54
+state          1 UUUUUUUsss ssssssssss ssssssssss ssssssssss ssssssUUUU UUUU                                                     54
+probability    1 9876655444 4433221111 1111111222 2222111112 2223346678 8999                                                     54
 

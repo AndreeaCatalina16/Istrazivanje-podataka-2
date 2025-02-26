@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_525
 
-sequence       1 AAGIAWIPYF GPGAEGIYTE GLMHNQNALV CGLRQ                                                                          35
-state          1 UUssssssss ssssssssss ssssssssss ssUUU                                                                          35
-probability    1 9642100000 0111111111 1112222222 34579                                                                          35
+sequence       1 AAGIAWIPYF GPGAEGIYTE GLMHNQNALV CGLRQLANET TQALQLFLRA TTEL                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9642100000 0000000000 0000110000 0001112222 2222222345 6789                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_330
 
-sequence       1 ISDRATRKYS DLVPKNSPGM VPLHIPEGET TLPSQN                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999989 8889999988 8888889999 999999                                                                         36
+sequence       1 ISDRATRKYS DLVPKNSPGM VPLHIPEGET TLPSQNSTEG RRVGVNTQET ITET                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999989 8889999988 8888889999 9999999999 9998899999 9999                                                     54
 

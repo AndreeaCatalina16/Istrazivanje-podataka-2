@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_279
 
-sequence       1 NINADIGEWA FWENKKNLSE QLRGEELSFE ALSLNE                                                                         36
-state          1 UUUUUsssss sssUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9776544322 2245566677 7778888888 888999                                                                         36
+sequence       1 NINADIGEWA FWENKKNLSE QLRGEELSFE ALSLNETEDD DAASSRITKG RISD                                                     54
+state          1 UUUUUsssss sssUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9776543322 2245566677 7777777777 7788899999 9999999999 9999                                                     54
 

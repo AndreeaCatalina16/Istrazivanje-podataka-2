@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_134
 
-sequence       1 CRYVHKAQGT GPCPGDYAFH KDGAFFLYDR LASTVI                                                                         36
-state          1 UUUUUUUUUU Usssssssss ssssssssss ssUUUU                                                                         36
-probability    1 8876666665 5443332111 1111001123 345678                                                                         36
+sequence       1 CRYVHKAQGT GPCPGDYAFH KDGAFFLYDR LASTVIYRGV NFAEGVIAFL ILAK                                                     54
+state          1 UUUUUUUUUU Usssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 8866666655 5433321111 1100000000 0000000000 0000000000 1258                                                     54
 

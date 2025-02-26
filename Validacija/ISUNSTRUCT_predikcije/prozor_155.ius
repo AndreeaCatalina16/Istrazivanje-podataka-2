@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_155
 
-sequence       1 DGAFFLYDRL ASTVIYRGVN FAEGVIAFLI LAKPKE                                                                         36
-state          1 UUssssssss ssssssssss ssssssssss ssUUUU                                                                         36
-probability    1 9742100000 0000000000 0000000000 246899                                                                         36
+sequence       1 DGAFFLYDRL ASTVIYRGVN FAEGVIAFLI LAKPKETFLQ SPPIREAVNY TENT                                                     54
+state          1 UUssssssss ssssssssss ssssssssss sssssssssU UUUUUUUUUU UUUU                                                     54
+probability    1 9742100000 0000000000 0000000000 0233444445 6666677777 8999                                                     54
 

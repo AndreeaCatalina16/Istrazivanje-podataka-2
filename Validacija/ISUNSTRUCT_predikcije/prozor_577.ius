@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_577
 
-sequence       1 ELRTYTILNR KAIDFLLRRW GGTCRILGPD CCIEP                                                                          35
-state          1 UUUsssssss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 9654221111 1000000000 0000000111 12379                                                                          35
+sequence       1 ELRTYTILNR KAIDFLLRRW GGTCRILGPD CCIEPHDWTK NITDKINQII HDFI                                                     54
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 9654221111 1000000000 0000000000 0000000001 1111112222 3457                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_367
 
-sequence       1 TEGRRVGVNT QETITETAAT IIGTNGNHMQ ISTIGI                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUss sssUUUUUUU UUUUUU                                                                         36
-probability    1 9998877776 6665555544 4445556666 677789                                                                         36
+sequence       1 TEGRRVGVNT QETITETAAT IIGTNGNHMQ ISTIGIRPSS SQIPSSSPTT APSP                                                     54
+state          1 UUUUUUUUUU UUUUUsssss ssssssssss sUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9998877666 6655544443 3334444444 4555567899 9999999999 9999                                                     54
 

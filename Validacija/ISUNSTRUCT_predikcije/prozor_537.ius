@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_537
 
-sequence       1 GAEGIYTEGL MHNQNALVCG LRQLANETTQ ALQLF                                                                          35
-state          1 UUUUUsssss ssssssssss ssssUUUUUU UUUUU                                                                          35
-probability    1 9876544443 3333322222 2344556677 77889                                                                          35
+sequence       1 GAEGIYTEGL MHNQNALVCG LRQLANETTQ ALQLFLRATT ELRTYTILNR KAID                                                     54
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9876443333 2222211000 0111111111 1000000111 1111111245 6679                                                     54
 

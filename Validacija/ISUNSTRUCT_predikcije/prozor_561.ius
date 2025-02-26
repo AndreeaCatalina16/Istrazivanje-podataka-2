@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_561
 
-sequence       1 ANETTQALQL FLRATTELRT YTILNRKAID FLLRR                                                                          35
-state          1 UUUUUUssss ssssssssss ssssssssss sssUU                                                                          35
-probability    1 9988764332 1111111110 0000111112 22479                                                                          35
+sequence       1 ANETTQALQL FLRATTELRT YTILNRKAID FLLRRWGGTC RILGPDCCIE PHDW                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9987764321 1111111000 0000000000 0000000000 0000111124 6788                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_432
 
-sequence       1 PSVMATEEPT TPPGSSPGPT TEAPTLTTPE NITTAV                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999999999 9999999999 999999                                                                         36
+sequence       1 PSVMATEEPT TPPGSSPGPT TEAPTLTTPE NITTAVKTVL PQESTSNGLI TSTV                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9999999999 9999888888 7777777777 8888998888 9999                                                     54
 

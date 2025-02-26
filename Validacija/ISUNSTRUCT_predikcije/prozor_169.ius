@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_169
 
-sequence       1 IYRGVNFAEG VIAFLILAKP KETFLQSPPI REAVNY                                                                         36
-state          1 UUssssssss ssssssssss sUUUUUUUUU UUUUUU                                                                         36
-probability    1 7544321111 0000001234 4555567788 888899                                                                         36
+sequence       1 IYRGVNFAEG VIAFLILAKP KETFLQSPPI REAVNYTENT SSYYATSYLE YEIE                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                                     54
+probability    1 7543221111 0000000122 2322333433 3333333333 3322233334 4679                                                     54
 

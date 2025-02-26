@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_97
 
-sequence       1 SYEAGEWAEN CYNLEIKKPD GSECLPPPPD GVRGFP                                                                         36
-state          1 UUUUUUUUUs ssssUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9887765554 4444556788 8888899999 999999                                                                         36
+sequence       1 SYEAGEWAEN CYNLEIKKPD GSECLPPPPD GVRGFPRCRY VHKAQGTGPC PGDY                                                     54
+state          1 UUUUUUssss sssssUUUUU UUUUUUUUUU UUUUssssss sUUUUUUUUU UUUU                                                     54
+probability    1 9887664444 3344456677 7777777777 6555444444 4566777888 8999                                                     54
 

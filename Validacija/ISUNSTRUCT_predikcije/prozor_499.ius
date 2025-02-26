@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_499
 
-sequence       1 RRQTNTKATG KCNPNLHYWT AQEQHNAAGI AWIPY                                                                          35
-state          1 UUUUUUUUUU UUUsssssss ssssssssss sssUU                                                                          35
-probability    1 9999888776 6554432222 3333333333 33468                                                                          35
+sequence       1 RRQTNTKATG KCNPNLHYWT AQEQHNAAGI AWIPYFGPGA EGIYTEGLMH NQNA                                                     54
+state          1 UUUUUUUUUU Usssssssss ssssssssss ssssssssss sssssssUUU UUUU                                                     54
+probability    1 9999888766 5444321111 1122111100 0000001112 2222344567 8899                                                     54
 

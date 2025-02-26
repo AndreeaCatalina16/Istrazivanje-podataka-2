@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_19
 
-sequence       1 FVWVIILFQK AFSMPLGVVT NSTLEVTEID QLVCKD                                                                         36
-state          1 Usssssssss ssssssssss ssssssssss ssssUU                                                                         36
-probability    1 5200000000 0000000011 1112222223 334479                                                                         36
+sequence       1 FVWVIILFQK AFSMPLGVVT NSTLEVTEID QLVCKDHLAS TDQLKSVGLN LEGSG                                                    55
+state          1 Usssssssss ssssssssss ssssssssss ssssssssss UUUUUUUUUU UUUUU                                                    55
+probability    1 5200000000 0000000000 1111111111 1111223344 5555666667 78999                                                    55
 

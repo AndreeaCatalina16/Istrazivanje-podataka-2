@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_590
 
-sequence       1 DFLLRRWGGT CRILGPDCCI EPHDWTKNIT DKINQ                                                                          35
-state          1 Usssssssss ssssssssss sssssssssU UUUUU                                                                          35
-probability    1 8432211000 0000000000 1122223445 66789                                                                          35
+sequence       1 DFLLRRWGGT CRILGPDCCI EPHDWTKNIT DKINQIIHDF IDNPLPNQDN DDNW                                                     54
+state          1 Usssssssss ssssssssss ssssssssss ssssssssss ssUUUUUUUU UUUU                                                     54
+probability    1 8432210000 0000000000 0000000000 0000000111 2456678899 9999                                                     54
 

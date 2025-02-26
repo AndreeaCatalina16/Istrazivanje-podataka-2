@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_205
 
-sequence       1 TENTSSYYAT SYLEYEIENF GAQHSTTLFK IDNNTF                                                                         36
-state          1 UUUUUUssss ssssssssss ssssssssss UUUUUU                                                                         36
-probability    1 9988764332 2211122222 2333443344 567889                                                                         36
+sequence       1 TENTSSYYAT SYLEYEIENF GAQHSTTLFK IDNNTFVRLD RPHTPQFLFQ LNDT                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss sssssssssU UUUU                                                     54
+probability    1 9988763222 1111111111 1111111101 1111111223 3344443445 6789                                                     54
 

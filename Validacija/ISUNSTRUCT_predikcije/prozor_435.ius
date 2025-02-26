@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_435
 
-sequence       1 MATEEPTTPP GSSPGPTTEA PTLTTPENIT TAVKTV                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9999999999 9999999999 9999999988 899999                                                                         36
+sequence       1 MATEEPTTPP GSSPGPTTEA PTLTTPENIT TAVKTVLPQE STSNGLITST VTGI                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9999999999 9999999999 9888888777 6666667788 8888877888 8899                                                     54
 

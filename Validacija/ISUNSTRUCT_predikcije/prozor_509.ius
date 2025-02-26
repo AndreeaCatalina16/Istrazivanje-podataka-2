@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_509
 
-sequence       1 KCNPNLHYWT AQEQHNAAGI AWIPYFGPGA EGIYT                                                                          35
-state          1 UUUUUsssss ssssssssss ssssssssss UUUUU                                                                          35
-probability    1 9776533222 2222221110 0000012344 55568                                                                          35
+sequence       1 KCNPNLHYWT AQEQHNAAGI AWIPYFGPGA EGIYTEGLMH NQNALVCGLR QLAN                                                     54
+state          1 UUUUUsssss ssssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9776533222 2222221100 0000000000 0000011111 1111111234 5679                                                     54
 

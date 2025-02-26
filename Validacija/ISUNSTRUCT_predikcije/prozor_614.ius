@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_614
 
-sequence       1 WTKNITDKIN QIIHDFIDNP LPNQDNDDNW WTGWR                                                                          35
-state          1 UUUUUUUsss ssssssssss sUUUUUUUss ssUUU                                                                          35
-probability    1 8876555433 3222222344 4555555543 34558                                                                          35
+sequence       1 WTKNITDKIN QIIHDFIDNP LPNQDNDDNW WTGWRQWIPA GIGITGIIIA IIAL                                                     54
+state          1 UUUUUUssss ssssssssss ssssssssss ssssssssss ssssssssss sssU                                                     54
+probability    1 8876554433 2211112233 3333333210 0000000000 0000000000 1147                                                     54
 

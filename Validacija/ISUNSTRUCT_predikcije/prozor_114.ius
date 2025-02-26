@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_114
 
-sequence       1 KPDGSECLPP PPDGVRGFPR CRYVHKAQGT GPCPGD                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU sUsUUUUUUU UUUUUU                                                                         36
-probability    1 9999998899 8887666555 4545567778 888999                                                                         36
+sequence       1 KPDGSECLPP PPDGVRGFPR CRYVHKAQGT GPCPGDYAFH KDGAFFLYDR LAST                                                     54
+state          1 UUUUUUUUUU UUUUUUssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9999998888 8876554333 2222222222 2222111111 1111001134 5689                                                     54
 

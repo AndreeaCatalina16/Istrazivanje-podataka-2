@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_182
 
-sequence       1 FLILAKPKET FLQSPPIREA VNYTENTSSY YATSYL                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 8877778877 7777777776 6666777776 677889                                                                         36
+sequence       1 FLILAKPKET FLQSPPIREA VNYTENTSSY YATSYLEYEI ENFGAQHSTT LFKI                                                     54
+state          1 UUUUUUUUUU UUUUUUUUss ssssssssss ssssssssss ssssssUUUU UUUU                                                     54
+probability    1 8777777776 6666665544 4333333321 1111111111 2233445556 6678                                                     54
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_372
 
-sequence       1 VGVNTQETIT ETAATIIGTN GNHMQISTIG IRPSSS                                                                         36
-state          1 UUUUUUUUUU UUUsssssss UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9988887666 5554444444 5555555556 678999                                                                         36
+sequence       1 VGVNTQETIT ETAATIIGTN GNHMQISTIG IRPSSSQIPS SSPTTAPSPE AQTP                                                     54
+state          1 UUUUUUUUUU UUUsssssss UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9988877666 5554443444 5555555556 6789999999 9999999999 9999                                                     54
 

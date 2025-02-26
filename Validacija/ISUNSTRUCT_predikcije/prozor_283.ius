@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_283
 
-sequence       1 DIGEWAFWEN KKNLSEQLRG EELSFEALSL NETEDD                                                                         36
-state          1 UUUUssssUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9765444456 6777777788 8888788888 999999                                                                         36
+sequence       1 DIGEWAFWEN KKNLSEQLRG EELSFEALSL NETEDDDAAS SRITKGRISD RATR                                                     54
+state          1 UUUUssssUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9765444456 6677777778 8877778888 8999999999 9999999999 9999                                                     54
 

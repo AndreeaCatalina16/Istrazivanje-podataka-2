@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_105
 
-sequence       1 ENCYNLEIKK PDGSECLPPP PDGVRGFPRC RYVHKA                                                                         36
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
-probability    1 9987777788 8888888888 8877766666 666789                                                                         36
+sequence       1 ENCYNLEIKK PDGSECLPPP PDGVRGFPRC RYVHKAQGTG PCPGDYAFHK DGAF                                                     54
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUsssss sssssssUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9877777788 8888877888 7765544433 3333444555 5555555567 8899                                                     54
 

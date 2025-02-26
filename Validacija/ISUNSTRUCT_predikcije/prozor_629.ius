@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_629
 
-sequence       1 FIDNPLPNQD NDDNWWTGWR QWIPAGIGIT GIIIA                                                                          35
-state          1 UUUUUUUUUU UUUsssssss ssssssssss ssssU                                                                          35
-probability    1 9999988887 7653000000 0000000000 11137                                                                          35
+sequence       1 FIDNPLPNQD NDDNWWTGWR QWIPAGIGIT GIIIAIIALL CVCKLLC                                                             47
+state          1 UUUUUUUUUU UUUsssssss ssssssssss ssssssssss ssssssU                                                             47
+probability    1 9999988887 7653000000 0000000000 0000000000 0001236                                                             47
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_192
 
-sequence       1 FLQSPPIREA VNYTENTSSY YATSYLEYEI ENFGAQ                                                                         36
-state          1 UUUUUUUUUU UUUUUUssss ssssssssss sUUUUU                                                                         36
-probability    1 9999987766 5555554432 2222222233 455789                                                                         36
+sequence       1 FLQSPPIREA VNYTENTSSY YATSYLEYEI ENFGAQHSTT LFKIDNNTFV RLDR                                                     54
+state          1 UUUUUUUUUU Usssssssss ssssssssss ssssssssss ssssssssss UUUU                                                     54
+probability    1 9999887765 5444444331 1111000000 1111111211 1112223334 5689                                                     54
 

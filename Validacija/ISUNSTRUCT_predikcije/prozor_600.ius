@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_600
 
-sequence       1 CRILGPDCCI EPHDWTKNIT DKINQIIHDF IDNPL                                                                          35
-state          1 UUssssssss ssssssssss ssssssssss sUUUU                                                                          35
-probability    1 8644332111 1111111111 1111111122 35789                                                                          35
+sequence       1 CRILGPDCCI EPHDWTKNIT DKINQIIHDF IDNPLPNQDN DDNWWTGWRQ WIPA                                                     54
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssUU                                                     54
+probability    1 8643332111 1111000000 0000000000 1122233333 2210000111 2379                                                     54
 

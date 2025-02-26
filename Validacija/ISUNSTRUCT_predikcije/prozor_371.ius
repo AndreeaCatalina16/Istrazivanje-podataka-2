@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_371
 
-sequence       1 RVGVNTQETI TETAATIIGT NGNHMQISTI GIRPSS                                                                         36
-state          1 UUUUUUUUUU UUUsssssss sUUUUUUUUU UUUUUU                                                                         36
-probability    1 9888777765 5554443344 4555555555 668999                                                                         36
+sequence       1 RVGVNTQETI TETAATIIGT NGNHMQISTI GIRPSSSQIP SSSPTTAPSP EAQT                                                     54
+state          1 UUUUUUUUUU UUUsssssss sssUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
+probability    1 9888777765 5554443344 4445555555 5678999999 9999999999 9999                                                     54
 
