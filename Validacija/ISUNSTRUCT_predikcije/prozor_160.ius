@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_160
 
-sequence       1 LYDRLASTVI YRGVNFAEGV IAFLILAKPK ETFLQSPPIR EAVNYTENTS SYYA                                                     54
-state          1 UUUUssssss ssssssssss ssssssssss ssssUUUUUU UUUUUUUUUU UUUU                                                     54
-probability    1 8665433210 0000000000 0000001233 3344555556 6666667788 8889                                                     54
+sequence       1 MGRFFNHTLV LLPDGCGTLL RAFYCILEPR SGNHCPAGNS YTSFATYHTP ATDCSDGNYN RNASLNSFKE YFNLRNCTFM YTYNITEDEI LEWFGITQTA  100
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss sssssssUUU  100
+probability    1 9753221100 0000000000 0000000122 2222222222 2221111222 2222333222 2222221110 0000000000 0000000000 0000124689  100
 

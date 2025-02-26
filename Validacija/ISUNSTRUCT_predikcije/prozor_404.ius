@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_404
 
-sequence       1 PSSSQIPSSS PTTAPSPEAQ TPTTHTSGPS VMATEEPTTP PGSSPGPTTE APTL                                                     54
-state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
-probability    1 9999999999 9999999999 9999999999 9999999999 9999999999 9999                                                     54
+sequence       1 TNCNYNLTKL LSLFSVNDFT CSQISPAAIA SNCYSSLILD YFSYPLSMKS DLSVSSAGPI SQFNYKQSFS NPTCLILATV PHNLTTITKP LKYSYINKCS  100
+state          1 UUssssssss ssssssssss ssssssssss ssssssssss ssssssssss sssssUssss ssssssssss ssssssssss ssssssssss sssssssUUU  100
+probability    1 9743221111 0000000000 0000010000 0000000000 0011223344 4444454443 3333222222 2110000000 0000111111 1122234569  100
 

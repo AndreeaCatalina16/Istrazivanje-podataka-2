@@ -1,0 +1,8 @@
+# IsUnstruct 2.02 release / short format
+# All patterns were used
+# prozor_1347
+
+sequence       1 HKVHVH                                                                                                           6
+state          1 UUUUUU                                                                                                           6
+probability    1 999999                                                                                                           6
+

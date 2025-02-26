@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_655
 
-sequence       1 IGITGIIIAI IALLCVCKLL C                                                                                         21
-state          1 UUssssssss ssssssssss U                                                                                         21
-probability    1 7532100000 0000000123 6                                                                                         21
+sequence       1 SVPVSVIYDK ETKTHATLFG SVACEHISST MSQYSRSTRS MLKRRDSTYG PLQTPVGCVL GLVNSSLFVE DCKLPLGQSL CALPDTPSTL TPRSVRSVPG  100
+state          1 UUUUUsssss ssssssssss sssssssUUU UUUUUUUUUU UUUUUUUUss ssssssssss ssssssssss ssssssssss sssUUUUUUU UUUUUUUUUU  100
+probability    1 9876544444 4443332222 2223344566 6777777777 7777766544 4332211000 0000000000 1111112222 2345677888 8899999999  100
 

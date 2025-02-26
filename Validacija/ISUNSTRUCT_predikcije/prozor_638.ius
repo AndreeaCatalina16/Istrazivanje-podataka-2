@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_638
 
-sequence       1 DNDDNWWTGW RQWIPAGIGI TGIIIAIIAL LCVCKLLC                                                                       38
-state          1 UUUUssssss ssssssssss ssssssssss sssssssU                                                                       38
-probability    1 9876410000 0000000000 0000000000 00001236                                                                       38
+sequence       1 VGYYSDDGNY YCLRACVSVP VSVIYDKETK THATLFGSVA CEHISSTMSQ YSRSTRSMLK RRDSTYGPLQ TPVGCVLGLV NSSLFVEDCK LPLGQSLCAL  100
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssUUUUUU UUUUUUUUUU UUUUUsssss ssssssssss ssssssssss sssssUUUUU  100
+probability    1 8754443210 0000000000 0000011111 1111111111 2233556667 7777777777 7666544433 2211000000 0000011112 2334455578  100
 

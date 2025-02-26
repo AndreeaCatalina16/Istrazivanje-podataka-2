@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_275
 
-sequence       1 TLDANINADI GEWAFWENKK NLSEQLRGEE LSFEALSLNE TEDDDAASSR ITKG                                                     54
-state          1 UUUUUsssss ssssssssUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
-probability    1 9876544432 2211123455 6667777777 7777778889 9999999999 9999                                                     54
+sequence       1 GNMFQFATLP VYDTIKYYSI IPHSIRSIQS DRKAWAAFYV YKLQPLTFLL DFSVDGYIRR AIDCGFNDLS QLHCSYESFD VESGVYSVSS FEAKPSGSVV  100
+state          1 UUUsssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss sssssssUUU UUUUUUUUUU  100
+probability    1 9753321110 0000000000 0001111111 1110000000 0000000000 0000000000 0000000000 0000111122 2333334566 6788999999  100
 

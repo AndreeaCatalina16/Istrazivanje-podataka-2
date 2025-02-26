@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_666
 
-sequence       1 ALLCVCKLLC                                                                                                      10
-state          1 UUsssssUUU                                                                                                      10
-probability    1 8644444557                                                                                                      10
+sequence       1 TKTHATLFGS VACEHISSTM SQYSRSTRSM LKRRDSTYGP LQTPVGCVLG LVNSSLFVED CKLPLGQSLC ALPDTPSTLT PRSVRSVPGE MRLASIAFNH  100
+state          1 UUUUUUUUUU sssUUUUUUU UUUUUUUUUU UUUUUUUsss ssssssssss ssssssssss ssssssssss ssUUUUUUUU UUUUUUUUUU UUUUUUUUUU  100
+probability    1 9987665555 4445556777 7778888887 7777665444 3322110000 0000000000 0111122222 3456677777 8888888888 8878888899  100
 

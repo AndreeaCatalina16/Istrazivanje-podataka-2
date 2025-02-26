@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_80
 
-sequence       1 SATKRWGFRS GVPPKVVSYE AGEWAENCYN LEIKKPDGSE CLPPPPDGVR GFPR                                                     54
-state          1 UUUUUUssss ssssssssss ssssssssss sssUUUUUUU UUUUUUUUUU UUUU                                                     54
-probability    1 9987654444 4444332222 2221111112 2345677788 8889999999 9999                                                     54
+sequence       1 HGDMYVYSAG HATGTTPQKL FVANYSQDVK QFANGFVVRI GAAANSTGTV IISPSTSATI RKIYPAFMLG SSVGNFSDGK MGRFFNHTLV LLPDGCGTLL  100
+state          1 UUUUssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss sssssssUUU  100
+probability    1 9875443444 4433333321 1111111111 0000000000 0011111111 1112222111 1000000011 1111111211 1110000000 1123334568  100
 

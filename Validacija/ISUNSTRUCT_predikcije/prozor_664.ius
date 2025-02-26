@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_664
 
-sequence       1 IIALLCVCKL LC                                                                                                   12
-state          1 Usssssssss sU                                                                                                   12
-probability    1 6432111123 46                                                                                                   12
+sequence       1 KETKTHATLF GSVACEHISS TMSQYSRSTR SMLKRRDSTY GPLQTPVGCV LGLVNSSLFV EDCKLPLGQS LCALPDTPST LTPRSVRSVP GEMRLASIAF  100
+state          1 UUUUUUUUUs sssssUUUUU UUUUUUUUUU UUUUUUUUUs ssssssssss ssssssssss ssssssssss ssssUUUUUU UUUUUUUUUU UUUUUUUUUU  100
+probability    1 9998776554 4444455567 7777788888 8777776654 4433221100 0000000000 0001111222 2234566777 7888888888 8888889999  100
 

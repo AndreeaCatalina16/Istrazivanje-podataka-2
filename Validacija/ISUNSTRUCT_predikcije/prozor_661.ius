@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_661
 
-sequence       1 IIAIIALLCV CKLLC                                                                                                15
-state          1 Usssssssss ssssU                                                                                                15
-probability    1 6321000000 01236                                                                                                15
+sequence       1 IYDKETKTHA TLFGSVACEH ISSTMSQYSR STRSMLKRRD STYGPLQTPV GCVLGLVNSS LFVEDCKLPL GQSLCALPDT PSTLTPRSVR SVPGEMRLAS  100
+state          1 UUUUUUUUUU UssssssssU UUUUUUUUUU UUUUUUUUUU UUssssssss ssssssssss ssssssssss sssssssUUU UUUUUUUUUU UUUUUUUUUU  100
+probability    1 9988887765 5444444445 5667777788 8888777776 6544433221 1000000000 0000011111 2222234566 7777888889 9999999999  100
 

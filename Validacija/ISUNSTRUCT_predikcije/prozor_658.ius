@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_658
 
-sequence       1 TGIIIAIIAL LCVCKLLC                                                                                             18
-state          1 UUssssssss sssssssU                                                                                             18
-probability    1 8520000000 00001236                                                                                             18
+sequence       1 VSVIYDKETK THATLFGSVA CEHISSTMSQ YSRSTRSMLK RRDSTYGPLQ TPVGCVLGLV NSSLFVEDCK LPLGQSLCAL PDTPSTLTPR SVRSVPGEMR  100
+state          1 UUUUUUUUUU Usssssssss ssssUUUUUU UUUUUUUUUU UUUUUsssss ssssssssss ssssssssss ssssssssss UUUUUUUUUU UUUUUUUUUU  100
+probability    1 9866556555 5443333333 3444566777 7778877777 7766544433 2211000000 0000000011 1112222234 5677778888 9999999999  100
 

@@ -2,7 +2,7 @@
 # All patterns were used
 # prozor_376
 
-sequence       1 TQETITETAA TIIGTNGNHM QISTIGIRPS SSQIPSSSPT TAPSPEAQTP TTHT                                                     54
-state          1 UUUUUUUUUU UsssUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUU                                                     54
-probability    1 9988776655 5444555555 5555566789 9999999999 9999999999 9999                                                     54
+sequence       1 QAEGVECDFS PLLSGTPPQV YNFKRLVFTN CNYNLTKLLS LFSVNDFTCS QISPAAIASN CYSSLILDYF SYPLSMKSDL SVSSAGPISQ FNYKQSFSNP  100
+state          1 UUUUUUUUUU ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss sssssUUUUU UUUUUUUUUU UUUUUUUUUU  100
+probability    1 9987665555 4444444321 1000000000 0000000000 0000000000 0000000000 0000000000 1123455666 6677777777 7778889999  100
 
