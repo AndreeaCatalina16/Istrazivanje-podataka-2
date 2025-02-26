@@ -1,0 +1,8 @@
+# IsUnstruct 2.02 release / short format
+# All patterns were used
+# prozor_57
+
+sequence       1 ASTDQLKSVG LNLEGSGVST DIPSATKRWG FRSGVP                                                                         36
+state          1 UUUUUUUUUU UUUUUUUUUU UUUUUUUUUU UUUUUU                                                                         36
+probability    1 9999988888 7888888888 8788877777 788999                                                                         36
+

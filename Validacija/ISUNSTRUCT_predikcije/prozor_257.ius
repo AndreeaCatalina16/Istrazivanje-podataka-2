@@ -1,0 +1,8 @@
+# IsUnstruct 2.02 release / short format
+# All patterns were used
+# prozor_257
+
+sequence       1 DTIHLHQQLS NTTGRLIWTL DANINADIGE WAFWEN                                                                         36
+state          1 UUUUUUUUUU ssssssssss ssssssssss ssssUU                                                                         36
+probability    1 9876665555 4332210000 0000000000 011269                                                                         36
+

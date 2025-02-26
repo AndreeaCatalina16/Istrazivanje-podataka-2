@@ -1,0 +1,8 @@
+# IsUnstruct 2.02 release / short format
+# All patterns were used
+# prozor_575
+
+sequence       1 TTELRTYTIL NRKAIDFLLR RWGGTCRILG PDCCI                                                                          35
+state          1 UUUUssssss ssssssssss ssssssssss ssssU                                                                          35
+probability    1 9875432111 1100000000 0000000012 23346                                                                          35
+
