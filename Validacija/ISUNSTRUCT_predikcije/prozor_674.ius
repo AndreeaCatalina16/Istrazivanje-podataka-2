@@ -1,0 +1,8 @@
+# IsUnstruct 2.02 release / short format
+# All patterns were used
+# prozor_674
+
+sequence       1 PIAFSTESGK EYIFPDSLEE AYPPWLSEKE ALEKENRYLV IDGQQFLWPV MSLQDKFLAV LQHD                                          64
+state          1 UUUUUUUUUU UUssUUUsss ssssssssss ssssssssss ssssssssss ssssssssss sUUU                                          64
+probability    1 9888888877 6544555444 4444334444 4443322100 0000000000 1111121223 4689                                          64
+
