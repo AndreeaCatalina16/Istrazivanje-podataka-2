@@ -1,16 +1,16 @@
 Tacnost za spike glycoprotein:
-SVM Model - 0.9951
-KNN Model - 0.9974
-CART Model - 0.9858
+SVM Model - 0.9951   |0.9961	(sekvence 30-100)
+KNN Model - 0.9974   |0.9985
+CART Model - 0.9858  |0.9959
 
 Tacnost za membranski protein:
-SVM Model - 0.9919
-KNN Model - 0.9961
-CART Model - 0.9905
+SVM Model - 0.9919   | 0.9939 	(sekvence 30-100)
+KNN Model - 0.9961   | 0.9970
+CART Model - 0.9905  | 0.9959
 
 Tacnost za nucleoprotein:
-SVM Model - 0.9907
-KNN Model - 0.9968
-CART Model - 0.9786
+SVM Model - 0.9907   | 0.9918    (sekvence 30-100)
+KNN Model - 0.9968   | 0.9975
+CART Model - 0.9786  | 0.9935
 
 Zakljucak: Koristimo KNN model, jer ima najbolju tacnost u sva tri slucaja(IUPRED3)
