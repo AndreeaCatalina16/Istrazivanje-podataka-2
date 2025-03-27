@@ -1,8 +1,0 @@
-# IsUnstruct 2.02 release / short format
-# All patterns were used
-# prozor_43
-
-sequence       1 YVVSDLEGIC QHIIQAFEAG VDFQDNADSF LLLLCLHHAY QGDHRLFLKS DAVQYLEGHG FRFEVREKEN VHRLDELLPN VTGGKNLRRT LAAMPEEETT  100
-state          1 UUUUssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss ssssssssss UUUUUUUUUU UUUUUUUUUU  100
-probability    1 7655432210 0000000000 0000000000 0000000000 0000000000 0000001111 1112233333 3333444444 5556666677 7788999999  100
-
